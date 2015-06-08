@@ -7,9 +7,7 @@
 This is a library for matching trees in Racket, based on a paper by Ilya Bagrak
 and Olin Shivers:
 
-    Ilya Bagrak and Olin Shivers. [trx: Regular-tree expressions, now in Scheme](http://repository.readscheme.org/ftp/papers/sw2004/bagrak.pdf). In
-        *Proceedings of the Fifth Workshop on Scheme and Functional Programming*,
-        pages 21-32, Snowbird, Utah, September 2004.
+[@trx]: Ilya Bagrak and Olin Shivers. [trx: Regular-tree expressions, now in Scheme](http://repository.readscheme.org/ftp/papers/sw2004/bagrak.pdf). In *Proceedings of the Fifth Workshop on Scheme and Functional Programming*, pages 21-32, Snowbird, Utah, September 2004.
 
 According to the paper, the code should be included in scsh, but it doesn't seem
 to exist anywhere on the Internet, so I decided to reimplement it myself (in
